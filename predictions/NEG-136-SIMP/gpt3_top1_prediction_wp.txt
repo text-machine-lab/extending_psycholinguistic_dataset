@@ -1,0 +1,72 @@
+ type
+
+ type
+
+ fish
+ 
+ type
+ 
+ insect
+
+ insect
+
+ insect
+ insect
+ insect
+ insect
+ type
+
+ type
+______
+ small
+
+ kind
+
+ type
+
+___
+______
+ type
+ 
+ kind
+
+ rose
+ rose
+ beautiful
+ rose
+ flower
+ 
+ flower
+ 
+ 
+ 
+ vegetable
+ 
+ ___
+ 
+ small
+ 
+ tool
+
+ tool
+
+ tool
+
+ tool
+
+
+
+ vehicle
+
+ vehicle
+ car
+ vehicle
+ car
+ place
+ good
+ place
+ place
+ 
+
+ building
+

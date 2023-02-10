@@ -1,0 +1,1540 @@
+ female
+
+
+
+ male
+ person
+ person
+ 
+ 
+
+
+
+ relative
+
+
+ woman
+ 
+
+ son
+
+ 
+
+ man
+
+
+
+
+
+ woman
+_____
+
+ 
+
+
+ metallic
+
+ type
+ coin
+
+
+ precious
+
+ metal
+ metal
+ type
+ element
+ container
+ 
+
+
+
+ musical
+ type
+
+ type
+
+
+ metal
+
+ 
+ five
+
+
+
+
+
+
+ metal
+
+
+
+ 
+
+ 
+:
+ 
+
+ metal
+
+ 
+ rock
+ 
+
+
+
+ 
+ animal
+
+ animal
+
+ 
+
+ example
+
+
+
+ animal
+
+ animal
+
+ animal
+_______
+ animal
+
+ animal
+ 
+
+
+ animal
+
+ animal
+
+ animal
+
+ animal
+
+ animal
+ 
+ animal
+
+
+
+
+
+ animal
+
+ animal
+_
+ offspring
+ 
+ animal
+
+
+
+
+
+ animal
+
+ animal
+ 
+ animal
+
+ even
+______
+ animal
+ 
+ 
+
+
+
+ animal
+ 
+ animal
+ 
+ animal
+
+ animal
+
+ animal
+
+ 
+
+ animal
+
+ ant
+ 
+ example
+
+ animal
+
+ type
+
+ color
+ color
+
+
+ color
+ 
+ fruit
+ 
+ type
+ color
+
+ color
+ kind
+ color
+
+ color
+ type
+
+ 
+
+ 
+
+
+ 
+ precious
+
+
+
+ deep
+
+ 
+ 
+ great
+ 
+ type
+ 
+
+ very
+ white
+
+ type
+ color
+
+
+ fruit
+
+ beautiful
+ rose
+ color
+ 
+ piece
+
+ piece
+
+ piece
+
+ comfortable
+
+ piece
+
+ device
+
+ piece
+ appropriate
+ type
+
+ device
+
+ type
+
+ type
+ 
+ piece
+
+ piece
+ good
+ piece
+ place
+ type
+ appropriate
+
+ very
+ piece
+ 
+ meal
+ good
+ device
+
+ device
+
+ 
+ very
+
+
+ type
+
+ long
+
+ piece
+
+ low
+
+ room
+ very
+ surface
+ 
+ good
+
+ person
+
+ device
+
+ fruit
+ fruit
+ fruit
+
+ type
+ 
+ fruit
+
+ fruit
+
+
+
+ type
+
+ fruit
+ 
+ citrus
+______
+ sour
+
+ type
+ orange
+ fruit
+ 
+ fruit
+ 
+ citrus
+ 
+ fruit
+ 
+ fruit
+ 
+ type
+ 
+ dried
+ fruit
+ type
+ 
+ fruit
+ 
+ fruit
+ 
+ fruit
+
+ type
+ citrus
+ fruit
+ 
+ type
+ 
+
+ 
+ type
+
+ type
+ 
+
+ 
+ fruit
+ 
+ citrus
+
+ cutting
+
+ device
+
+ long
+
+ 
+
+ place
+
+
+
+ firearm
+
+ long
+
+ 
+ toy
+ long
+
+ unit
+ weapon
+ 
+ 
+ vehicle
+
+ substance
+
+:
+
+
+
+ series
+ 
+ tool
+ toy
+ tool
+
+______
+
+ weapon
+ 
+
+
+ 
+ appropriate
+ container
+
+
+
+
+
+
+ toy
+ type
+
+ tube
+ 
+ type
+ toy
+ vehicle
+________
+ type
+
+ weapon
+ 
+ state
+ solid
+ unit
+ appropriate
+
+
+:
+
+ tool
+ knife
+
+
+ type
+ ideal
+ country
+ country
+_
+ country
+ country
+ democracy
+ country
+ country
+ country
+ member
+ country
+ 
+ beautiful
+ wealthy
+ country
+
+ country
+ 
+ place
+ 
+ country
+ country
+ country
+ member
+ country
+ country
+ 
+ member
+ country
+ country
+ 
+ country
+_
+ member
+ 
+ very
+ country
+ country
+ 
+____
+ country
+___
+ country
+ country
+ country
+ democracy
+ continent
+
+ 
+ member
+ part
+ part
+ person
+___
+ country
+___
+ country
+ 
+ country
+ democracy
+ country
+ part
+_
+_
+ person
+ country
+ country
+ 
+_
+ country
+ country
+ democracy
+_
+ ...
+ 
+ 
+ country
+ 
+ country
+ country
+ former
+ 
+___
+ 
+______
+ country
+ land
+______
+_
+ country
+
+
+
+
+
+
+
+ 
+ sudden
+_______
+ crime
+
+ person
+
+
+
+ serious
+
+ 
+ act
+ crime
+ honest
+
+
+
+ crime
+ device
+ renewable
+ serious
+
+ moving
+ good
+ 
+
+
+ 
+ person
+
+
+
+
+________
+ killing
+ 
+
+
+
+
+ person
+ good
+
+
+ person
+
+
+
+
+ crime
+ person
+
+ person
+
+ person
+
+ person
+
+ person
+ 
+ person
+___
+ person
+
+ person
+ person
+ person
+ 
+ person
+ expert
+ person
+
+ person
+
+ person
+ 
+ person
+ person
+ person
+
+ person
+
+ person
+
+ person
+
+ person
+ person
+ person
+ person
+ person
+
+ person
+
+ person
+
+ person
+ 
+ person
+
+ person
+
+ person
+
+ person
+
+ person
+ person
+ person
+
+ person
+
+ person
+
+ person
+
+ person
+
+ person
+ animal
+ person
+ 
+ person
+
+ person
+ 
+ person
+
+ person
+
+ person
+ good
+ person
+
+ person
+ 
+ person
+
+
+
+ hard
+ toy
+ 
+
+
+
+ great
+ good
+
+
+ type
+ easy
+ sport
+
+______
+ good
+
+
+ 
+_
+ place
+
+
+
+ ball
+ 
+ sport
+ very
+ good
+
+ structure
+ 
+ type
+
+ good
+ good
+ type
+
+ type
+
+
+
+ sport
+
+ term
+ sport
+
+ 
+ competition
+ good
+ 
+ good
+ great
+ safe
+ place
+ place
+
+ 
+ person
+
+
+
+ good
+ easy
+ type
+
+ type
+ 
+ 
+ type
+ very
+
+_
+
+ type
+ 
+
+
+ type
+ 
+ 
+
+ bird
+ 
+ type
+
+ type
+
+
+
+ type
+
+ type
+ 
+_
+ 
+ bird
+
+ large
+
+
+
+ domest
+
+ type
+
+ bird
+
+_
+______
+ type
+______
+ type
+ 
+ 
+ 
+ type
+
+
+ 
+
+ 
+
+
+
+
+ bird
+ 
+ bird
+
+:
+
+
+ 
+
+ ______
+ bird
+ 
+_
+
+ type
+
+
+
+
+ 
+ small
+ 
+ bird
+
+ bird
+
+ type
+
+ vehicle
+
+ vehicle
+
+ vehicle
+ good
+ vehicle
+ good
+ vehicle
+
+ vehicle
+_
+ vehicle
+ 
+ vehicle
+ appropriate
+ two
+
+ vehicle
+
+ vehicle
+ toy
+ large
+ boat
+ vehicle
+...
+ vehicle
+
+ car
+
+ vehicle
+
+ type
+
+ type
+
+ vehicle
+ effective
+ vehicle
+
+ person
+ real
+ vehicle
+
+ machine
+
+
+ place
+ vehicle
+
+ vehicle
+
+ vehicle
+
+ Japanese
+________
+....
+
+ unit
+ 
+ vehicle
+ toy
+_
+ 
+ vehicle
+
+ vehicle
+
+
+
+
+ toy
+ 
+
+
+
+ large
+ car
+ mode
+
+ fun
+ toy
+ large
+ toy
+ mammal
+
+ type
+
+ vehicle
+ good
+ model
+ suitable
+ vehicle
+
+ two
+
+ game
+ appropriate
+
+ toy
+
+ toy
+ vehicle
+
+ vehicle
+ toy
+:
+ toy
+ toy
+ toy
+:
+ toy
+ long
+ example
+
+
+ type
+ toy
+ creature
+ toy
+ great
+ 
+ type
+ place
+ musical
+ 
+ 
+ good
+ machine
+
+
+
+ small
+ toy
+ children
+ toy
+ board
+
+ vehicle
+
+ 
+ easy
+....
+ 
+ type
+ toy
+ 
+ 
+ small
+ 
+
+ 
+ type
+ 
+ type
+ 
+ type
+ 
+ type
+
+
+ 
+ vegetable
+ fruit
+ vegetable
+ fruit
+ type
+ 
+ 
+ vegetable
+ vegetable
+....
+
+
+ root
+ fruit
+....
+ 
+ vegetable
+ fruit
+ root
+ animal
+ type
+ 
+ 
+
+ type
+ 
+ 
+ 
+ type
+ fruit
+ insect
+
+ insect
+
+ insect
+
+ insect
+
+ ar
+
+ insect
+
+ insect
+ very
+ insect
+
+ insect
+
+ insect
+
+ insect
+
+ insect
+ 
+ insect
+
+ insect
+
+ 
+
+
+
+ insect
+
+ insect
+
+ insect
+_______
+ insect
+
+ insect
+ 
+ ar
+ 
+ insect
+
+ insect
+ 
+ example
+
+ insect
+ 
+ insect
+ 
+ 
+ 
+ flower
+
+ type
+ 
+ flower
+ rose
+ 
+______
+ beautiful
+ rose
+ type
+
+ type
+ example
+ type
+
+ type
+ 
+
+________
+ type
+ 
+ 
+ 
+ flower
+ 
+
+______
+ type
+ 
+
+ rose
+ flower
+ 
+ flowering
+ rose
+ 
+ ___
+
+ rose
+
+ 
+
+
+ 
+ 
+ type
+
+ yellow
+
+ type
+ ___
+
+
+ type
+ flower
+
+ 
+
+ 
+
+ infection
+
+
+
+
+
+ 
+ disease
+
+ 
+
+
+
+ cancer
+ cancer
+ viral
+ 
+
+
+
+ STD
+ serious
+ serious
+_
+ cold
+
+
+
+ 
+ serious
+
+ disease
+ infection
+ 
+
+ condition
+ common
+
+ 
+
+
+ serious
+_
+ deficiency
+
+
+
+
+ 
+ type
+ type
+ type
+___
+ type
+
+ type
+ 
+ fruit
+ vegetable
+ type
+______
+ fruit
+
+ 
+
+
+
+
+ ______
+ type
+
+ 
+ 
+ type
+
+ type
+ 
+ type
+ 
+
+ ac
+ type
+ 
+ 
+ 
+ tree
+
+___
+ 
+ ______
+
+ tree
+ 
+ 
+ 
+ type
+ 
+ type
+
+
+______
+
+....
+
+ insect
+ fruit
+ 
+ tree
+ 
+
+
+
+ 
+ holiday
+ Christmas
+ type
+
+
+ type
+_
+
+ citrus
+
+
+ 
+ type
+ 
+ type
+
+ type
+
+ type
+ 
+ type
+
+ 
+
+ type
+ 
+ type
+ 
+ type
+
+ large
+
+ type
+ 
+
+ 
+:
+
+ type
+
+ type
+
+
+________
+ type
+ 
+ small
+ 
+ type
+
+
+ 
+
+________
+
+ 
+
+
+ type
+
+ type
+ 
+ type
+ 
+ mammal
+ 
+ type
+ type
+ 
+ good
+ type
+
+
+
+ type
+
+ type
+
+ divine
+ being
+ crust
+
+ type
+______
+ color
+ color
+ small
+ 
+ type
+ 
+ snake
+
+ type
+
+ common
+
+ type
+ 
+ type
+ 
+ mammal
+
+_
+
+
+ 
+ type
+ color
+
+ 
+
+ 
+
+
+ place
+ place
+
+
+ type
+ 
+ type
+ snake
+ type
+______
+ type
+
+ man
+ 
+ type
+
+
+__
+ substance
+ 
+ male
+
+ type
+ 
+ white
+ 
+ type
+ snake
+ 
+ good
+ large
+ animal
+ type
+
+ type
+______
+ person
+
+
+ type
+ city
+ city
+ beautiful
+ city
+
+
+ type
+
+
+ 
+
+
+_
+
+ type
+______
+_
+
+ city
+ city
+ person
+ type
+ person
+ 
+ person
+ ______
+ person
+ 
+ city
+ 
+:
+ city
+ type
+
+ city
+ very
+ city
+ city
+ type
+ type
+ city
+ very
+ city
+ place
+_
+ very
+ type
+ place
+
+____
+ person
+_______
+ city
+ type
+ 
+
+ city
+ city
+
+ type
+
+
+
+ 
+ city
+
+
+
+ state
+:
+ citrus
+
+ state
+ state
+ state
+ 
+ type
+ state
+ native
+ person
+ type
+ 
+ state
+ state
+ state
+ state
+ type
+ 
+ state
+ state
+ person
+ 
+ state
+ state
+ country
+ state
+ state
+ 
+ state
+
+ river
+ 
+
+ type
+ person
+_
+
+ river
+ state
+ state
+
+
+_
+ state
+ person
+______
+ horse
+ chicken
+
+
+ state
+ 
+ state
+ state
+
+___
+:
+ 
+_
+
+ small
+ 
+ state
+ 
+ person
+
+
+ animal
+ state
+ 
+ state
+ state
+_
+______
+ state
+ state

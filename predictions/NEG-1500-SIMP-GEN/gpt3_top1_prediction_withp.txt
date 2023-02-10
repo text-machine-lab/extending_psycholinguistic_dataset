@@ -1,0 +1,1500 @@
+ example
+
+ 
+
+ great
+______
+ animal
+
+ animal
+
+ example
+
+ creature
+ 
+ computer
+
+ device
+
+ stack
+
+
+
+ place
+
+ device
+
+ type
+
+ kitchen
+
+ vehicle
+ good
+ small
+
+ bird
+
+ ut
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ insect
+
+
+
+ rept
+ 
+
+
+ animal
+
+
+
+ rept
+
+ animal
+ 
+ vehicle
+
+_
+ rose
+ type
+
+ flower
+ 
+ type
+ rose
+
+
+
+
+ small
+
+ example
+
+ example
+
+ type
+ 
+ 
+ 
+
+ 
+
+
+ mammal
+
+ animal
+______
+...
+
+
+ place
+ vehicle
+ very
+
+ bird
+_______
+______
+ fruit
+ 
+:
+ 
+ mammal
+
+ bird
+______
+________
+ 
+________
+
+
+ 
+ vehicle
+
+ device
+ 
+ 
+ 
+_
+______
+ common
+
+
+ 
+ 
+
+ animal
+ mammal
+ large
+ 
+ place
+
+ vehicle
+
+ bird
+
+
+
+
+ 
+ 
+ 
+ place
+ home
+ instrument
+
+ 
+ animal
+ fruit
+
+ fruit
+ 
+ bird
+_
+ 
+ 
+ animal
+
+ animal
+
+ animal
+ mammal
+
+______
+ vehicle
+ good
+
+
+ person
+ instrument
+_______
+ 
+ 
+ 
+ 
+
+ small
+
+
+ 
+ person
+
+ person
+ expert
+ type
+
+ very
+
+
+
+
+
+ tool
+
+ place
+
+ plant
+
+ type
+
+ plant
+ 
+ 
+
+ type
+
+ vehicle
+...
+ device
+
+ amphib
+
+ 
+ 
+:
+ 
+ type
+ 
+
+
+
+
+ piece
+
+
+
+ type
+ 
+ small
+ 
+ amphib
+
+
+
+ device
+ 
+ tool
+
+______
+
+ container
+
+___
+______
+ 
+
+/
+
+
+
+ device
+
+ animal
+
+
+ 
+ electronic
+
+ ar
+
+ vehicle
+
+ 
+
+ type
+
+ large
+ place
+ place
+ building
+ large
+ good
+ educational
+
+______
+
+ mammal
+
+ rept
+
+
+ ___
+
+
+ male
+______
+ 
+ man
+...
+
+ ______
+ toy
+ place
+ good
+ example
+
+ person
+
+ place
+ place
+ stack
+ 
+ insect
+
+ tool
+
+ animal
+______
+ small
+ 
+ bird
+
+ fish
+
+ 
+
+
+
+ animal
+
+
+
+ animal
+
+
+
+ example
+
+ creature
+ 
+ insect
+
+
+ place
+ large
+ home
+
+
+
+ 
+
+
+...
+ 
+ piece
+
+ vehicle
+...
+
+________
+ type
+ 
+ example
+
+ person
+
+ person
+
+ expert
+
+ expert
+ person
+ book
+
+ type
+ 
+ amphib
+
+________
+ ______
+ room
+ place
+ 
+ 
+ 
+
+
+
+ fruit
+
+ type
+
+ mammal
+
+ 
+_
+ bird
+
+
+ 
+ vehicle
+ toy
+
+_
+
+
+ type
+...
+ tree
+
+ container
+ 
+ large
+
+ aircraft
+
+ aircraft
+
+ kitchen
+
+ device
+
+
+
+ thing
+
+ long
+ 
+ instrument
+ musical
+ art
+ good
+______
+
+ natural
+______
+
+
+ cut
+
+
+
+ electronic
+
+
+
+ small
+
+ person
+
+ large
+ good
+ animal
+
+ type
+ 
+ container
+
+ 
+ 
+ place
+
+
+
+ excellent
+
+ place
+ ideal
+ flower
+ 
+ thing
+
+ vessel
+ good
+ person
+ person
+
+
+________
+
+
+ rose
+ container
+
+ type
+ 
+ insect
+
+
+
+
+
+ vehicle
+_
+ weapon
+ 
+ instrument
+ musical
+ container
+ good
+ type
+ 
+ device
+
+
+
+ fruit
+ 
+
+ 
+
+
+ animal
+ toy
+ two
+ appropriate
+ type
+
+ 
+
+ piece
+ good
+ container
+ solid
+_
+ 
+ activity
+ toy
+ animal
+ animal
+ animal
+ animal
+ marine
+
+ person
+ toy
+ electronic
+
+
+
+ solid
+ 
+ food
+ 
+ type
+
+ person
+ 
+ person
+ 
+ person
+
+ person
+
+
+
+ garment
+ 
+ long
+ appropriate
+ structure
+ place
+ surface
+...
+
+
+
+
+ example
+ 
+ 
+ mammal
+ building
+
+ example
+ 
+ large
+______
+ institute
+
+ mammal
+
+ root
+____
+ example
+
+ example
+
+ 
+ 
+ 
+
+ example
+ 
+
+
+ piece
+
+ animal
+
+ 
+
+ vehicle
+
+
+ 
+ mammal
+
+ 
+ 
+ type
+ 
+ vehicle
+
+ place
+ place
+ star
+ star
+ type
+______
+ living
+ 
+ mammal
+
+
+ 
+
+
+
+
+ 
+
+_
+
+ animal
+
+
+
+
+
+ type
+
+ electronic
+
+ drink
+
+ drink
+ 
+ instrument
+ toy
+ beverage
+ meal
+ 
+ mammal
+
+ 
+...
+ 
+
+
+ sandwich
+
+ type
+______
+ animal
+
+
+____
+
+
+
+
+ stack
+ 
+ story
+ art
+
+
+(
+ animal
+ insect
+
+
+ animal
+ 
+ 
+ piece
+
+ person
+
+
+ vegetable
+ substance
+ 
+_
+ 
+ type
+ 
+ large
+
+ 
+
+
+
+ ball
+...
+ 
+ 
+ institution
+
+
+ 
+ person
+
+ person
+ animal
+ person
+ artist
+ device
+ person
+ person
+ person
+ person
+
+
+
+ instrument
+ very
+ large
+ 
+ word
+ word
+ word
+ noun
+ word
+ valid
+ word
+ noun
+ word
+ good
+ tool
+
+ small
+
+ appliance
+
+
+
+ appliance
+ machine
+ piece
+ bed
+ type
+ 
+ place
+ place
+ device
+ good
+ piece
+ 
+ device
+
+ precious
+_
+
+
+ 
+
+ food
+
+ dessert
+________
+
+
+ small
+
+ animal
+
+
+ 
+ structure
+
+ animal
+
+...
+
+
+
+ animal
+ 
+ animal
+ 
+ example
+
+ vehicle
+
+ type
+ 
+ 
+ toy
+ type
+ 
+
+
+ 
+ brass
+ 
+
+
+ 
+ type
+ animal
+ animal
+
+ insect
+
+ adult
+______
+ insect
+
+ vehicle
+
+ animal
+
+ piece
+
+ 
+
+_
+
+ device
+ 
+ dessert
+________
+ simple
+
+ example
+
+ precious
+
+ type
+
+ thin
+
+ electronic
+
+
+
+:
+
+
+
+ 
+______
+
+
+ small
+
+ great
+
+ book
+
+.....
+
+ institution
+
+________
+ 
+ dish
+ meal
+ large
+ home
+ fruit
+
+ piece
+______
+
+ 
+ mixture
+ 
+ type
+
+ type
+ nood
+
+
+ place
+
+ great
+ good
+ bird
+ 
+ animal
+
+ bird
+
+ dish
+ meal
+ fruit
+ 
+
+
+ vehicle
+ car
+ element
+ 
+ atom
+ mineral
+ mineral
+ 
+
+
+ device
+ 
+ container
+ 
+ 
+ toy
+ small
+ rock
+_
+ 
+ mythical
+
+ insect
+
+
+
+ 
+ example
+ day
+ day
+ ar
+ 
+ type
+
+_
+ 
+
+
+ measuring
+
+
+
+ type
+
+ fruit
+ 
+ boat
+
+ person
+ 
+ person
+ person
+ person
+ artist
+ person
+
+ piece
+
+ knob
+
+ eating
+
+ story
+ good
+ large
+ apartment
+
+ good
+ good
+ 
+ type
+
+
+
+ 
+ 
+ instrument
+
+ type
+ 
+...
+ 
+ person
+
+ person
+ person
+ type
+
+ citrus
+
+ piece
+
+ person
+
+ type
+ 
+:
+ 
+ piece
+
+ type
+ good
+ large
+ good
+ place
+ good
+ object
+ 
+________
+ 
+ fruit
+ 
+ type
+ 
+
+
+ ar
+
+ large
+ 
+
+
+ 
+
+ device
+
+
+
+ device
+
+ place
+ place
+ collection
+ book
+ person
+ 
+_
+ 
+ space
+ very
+
+
+ kind
+
+ type
+______
+ large
+ good
+
+ country
+ dessert
+
+ dessert
+ cake
+ sweet
+
+ example
+ 
+ creature
+ rept
+ person
+ 
+ 
+ toy
+ plant
+ animal
+ article
+
+ article
+______
+
+___
+
+
+ example
+ place
+ enormous
+ place
+ artist
+ 
+ artist
+ 
+ artist
+ person
+ 
+
+ device
+
+ instrument
+
+ solid
+ 
+ type
+
+ deep
+ place
+ example
+
+ type
+
+ 
+
+ animal
+
+ tube
+
+ example
+
+ dessert
+
+ dessert
+ 
+ piece
+
+
+
+_
+
+ animal
+
+ vehicle
+ good
+ computer
+
+ natural
+ mountain
+
+ home
+
+
+:
+ 
+ type
+
+ type
+
+
+ bunch
+ knob
+ toy
+ unit
+(
+
+ day
+ measure
+ long
+ female
+ 
+ person
+______
+ type
+ very
+ baby
+ good
+ appliance
+
+
+ 
+ person
+
+ person
+
+ person
+
+
+
+ device
+
+
+
+ person
+___
+ device
+
+ cocktail
+
+ 
+(
+ example
+ snow
+ animal
+ toy
+
+
+ device
+
+
+ good
+ animal
+
+ type
+ 
+
+ 
+ citrus
+
+ good
+ 
+
+
+ animal
+
+ type
+
+ small
+ animal
+
+
+ container
+ place
+ instrument
+ 
+ young
+
+ type
+
+ 
+ appropriate
+ 
+
+ type
+ 
+ person
+
+ piece
+ 
+
+________
+ type
+ meal
+
+
+ good
+ meal
+ type
+ meal
+ 
+ 
+ device
+
+
+
+ 
+
+
+ party
+ device
+______
+
+
+ very
+
+ device
+
+
+
+ type
+ 
+ animal
+
+ 
+ 
+____
+
+ tool
+
+ kitchen
+
+ container
+ place
+ infant
+ toy
+ machine
+
+
+ 
+...
+ 
+ system
+
+ machine
+
+
+
+ vegetable
+
+(
+ 
+ large
+ 
+ type
+
+ place
+
+ place
+ place
+ semic
+
+ instrument
+
+ 
+ 
+ device
+
+ fruit
+ 
+ person
+ 
+ person
+ 
+ system
+ 
+
+ game
+
+ 
+ person
+ 
+ place
+
+ place
+
+
+ good
+ type
+
+ type
+ 
+ animal
+
+ vehicle
+ 
+ present
+ toy
+
+ requirement
+ great
+ very
+ container
+
+
+
+ insect
+
+ small
+ 
+ long
+
+ __
+
+ animal
+
+ instrument
+
+ piece
+ toy
+ 
+ 
+ person
+
+ room
+ place
+ 
+______
+_______
+
+ insect
+
+ inver
+
+ person
+ 
+
+
+ time
+ 
+ great
+ place
+_
+ dog
+________
+
+...
+ dog
+
+ 
+ flower
+
+ 
+ 
+ 
+ 
+ tool
+ effective
+ thing
+________
+
+________
+ place
+
+ large
+ ideal
+ beverage
+ meal
+ prehistoric
+
+ type
+
+
+ 
+ garment
+ garment
+
+ place
+
+ 
+ article
+ place
+ competition
+ sprint
+ institution
+
+ article
+______
+ freshwater
+ 
+ device
+
+ household
+
+ device
+
+ french
+
+ type
+ 
+ occasion
+ good
+_
+ toy
+ cutting
+ 
+ type
+ 
+ person
+
+ place
+
+ book
+ 
+ type
+
+ ar
+
+ type
+
+ long
+ 
+
+
+ type
+
+ type
+
+ type
+________
+ animal
+
+ vehicle
+
+ type
+
+
+
+ tool
+
+ vehicle
+
+ vehicle
+ bicycle
+ vehicle
+
+
+
+ vehicle
+
+ vehicle
+
+ large
+ person
+ device
+
+ tool
+
+
+
+ vehicle
+ animal
+...
+
+
+
