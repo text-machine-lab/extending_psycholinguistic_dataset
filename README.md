@@ -1,4 +1,5 @@
 # Larger Probes Tell a Different Story: Extending Psycholinguistic Datasets Via In-Context Learning
+Paper link - https://arxiv.org/abs/2303.16445
 
 In this work, we introduce new, larger datasets for negation (NEG-1500-SIMP) and role reversal (ROLE-1500) inspired by psycholinguistic studies from Ettinger (2020). We dramatically extend existing NEG-136 and ROLE-88 benchmarks using GPT3, increasing their size from 18 and 44 sentence pairs to 750 each. We also create 
 another version of extended negation dataset (NEG-1500-SIMP-TEMP), created using template-based generation. It consists of 770 sentence pairs. We evaluate 22 models on the generated datasets.
@@ -98,3 +99,15 @@ dataset = load_dataset("text-machine-lab/NEG-1500-SIMP-TEMP")
 Battig, William F. and William Edward Montague. “Category norms of verbal items in 56 categories A replication and extension of the Connecticut category norms.” Journal of Experimental Psychology 80 (1969): 1-46. 
 
 Ettinger, A. (2020). What BERT is not: Lessons from a new suite of psycholinguistic diagnostics for language models. Transactions of the Association for Computational Linguistics, 8, 34-48. https://arxiv.org/abs/1907.13528 
+
+
+## Paper link and Citation
+
+Paper link - https://arxiv.org/abs/2303.16445
+
+      @article{shivagunde2023larger,
+        title={Larger Probes Tell a Different Story: Extending Psycholinguistic Datasets Via In-Context Learning},
+        author={Shivagunde, Namrata and Lialin, Vladislav and Rumshisky, Anna},
+        journal={arXiv preprint arXiv:2303.16445},
+        year={2023}
+      }
