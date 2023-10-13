@@ -1,6 +1,19 @@
 # Larger Probes Tell a Different Story: Extending Psycholinguistic Datasets Via In-Context Learning
 Paper link - https://arxiv.org/abs/2303.16445
 
+Datasets are available on 🤗
+
+```
+from datasets import load_dataset
+
+dataset = load_dataset("text-machine-lab/NEG-1500-SIMP-TEMP")
+dataset = load_dataset("text-machine-lab/NEG-1500-SIMP-GEN")
+dataset = load_dataset("text-machine-lab/ROLE-1500")
+```
+Download datasets from 🤗 at https://huggingface.co/text-machine-lab 
+
+# 
+
 In this work, we introduce new, larger datasets for negation (NEG-1500-SIMP) and role reversal (ROLE-1500) inspired by psycholinguistic studies from Ettinger (2020). We dramatically extend existing NEG-136 and ROLE-88 benchmarks using GPT3, increasing their size from 18 and 44 sentence pairs to 750 each. We also create 
 another version of extended negation dataset (NEG-1500-SIMP-TEMP), created using template-based generation. It consists of 770 sentence pairs. We evaluate 22 models on the generated datasets.
 
@@ -85,15 +98,7 @@ For role, number of in-context samples is 4 and number of times the script promp
 
 The generated datasets are saved in `data/`.
 
-## D. Load datasets from HuggingFace
 
-The datasets are available on HuggingFace and can be loaded like this
-
-```
-from datasets import load_dataset
-
-dataset = load_dataset("text-machine-lab/NEG-1500-SIMP-TEMP")
-```
 
 ## References
 Battig, William F. and William Edward Montague. “Category norms of verbal items in 56 categories A replication and extension of the Connecticut category norms.” Journal of Experimental Psychology 80 (1969): 1-46. 
