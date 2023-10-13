@@ -4,3 +4,6 @@ nltk
 pandas
 openai
 matplotlib
+ipykernel
+scipy
+statsmodels
